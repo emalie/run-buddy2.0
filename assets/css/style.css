@@ -205,18 +205,19 @@
         color: #fce138;
     }
     footer {
+        justify-content: space-between;
         background: #fce138;
         width: 100%;
         padding: 40px 35px;
+        display: flex;
+        flex-wrap: wrap;
     }
     footer h2 {
-    display:inline;
     color: #024e76;
     font-size: 30px;
     margin: 0;
     }
     footer div {
-        float: right;
         line-height: 1.5;
         text-align: right;
     }
