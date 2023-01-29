@@ -18,7 +18,7 @@
 ```
 
 ## Link to the deployed application on GitHub
-
+https://emalie.github.io/run-buddy2.0/
 
 ## Credits
 - No collaborators. 
